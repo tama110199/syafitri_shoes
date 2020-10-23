@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "571177221557",
+    "firebase_url": "https://toko-afifah.firebaseio.com",
+    "project_id": "toko-afifah",
+    "storage_bucket": "toko-afifah.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:571177221557:android:5532f958d95b6f35f46dfc",
+        "android_client_info": {
+          "package_name": "com.reix19.syafitri_shoes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "571177221557-q996oh5j4o1ce34ulv319ju03cusv9dq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgSmOCgkp6trQQIDPi9J-JUCDw0A98ND8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "571177221557-q996oh5j4o1ce34ulv319ju03cusv9dq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
